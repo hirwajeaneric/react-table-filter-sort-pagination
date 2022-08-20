@@ -1,0 +1,110 @@
+{
+    "users":[
+        {
+            "name":"John",
+            "email":"john@gmail.com",
+            "phone":"03243234344",
+            "address":"UK",
+            "id": 3,
+            "status":"Active"
+        },{
+            "name":"Jane",
+            "email":"jane@gmail.com",
+            "phone":"03242234344",
+            "address":"China",
+            "id": 4,
+            "status":"Inactive"
+        },{
+            "name":"Muyango",
+            "email":"muyango@gmail.com",
+            "phone":"05423234344",
+            "address":"USA",
+            "id": 5,
+            "status":"Active"
+        },{
+            "name":"Hirwa",
+            "email":"hirwa@gmail.com",
+            "phone":"03241134344",
+            "address":"RWANDA",
+            "id": 6,
+            "status":"Active"
+        },{
+            "name":"Andres",
+            "email":"andres@gmail.com",
+            "phone":"01243234344",
+            "address":"BRAZIL",
+            "id": 7,
+            "status":"Active"
+        },{
+            "name":"Umutesi",
+            "email":"umutesi@gmail.com",
+            "phone":"07843234344",
+            "address":"RWANDA",
+            "id": 8,
+            "status":"Inactive"
+        },{
+            "name":"Muhizi",
+            "email":"muzi@gmail.com",
+            "phone":"07843234344",
+            "address":"RWANDA",
+            "id": 9,
+            "status":"Active"
+        },{
+            "name":"Bruce",
+            "email":"bruce@gmail.com",
+            "phone":"05643234344",
+            "address":"INDIA",
+            "id": 10,
+            "status":"Inactive"
+        },{
+            "name":"Bob",
+            "email":"bob@gmail.com",
+            "phone":"03243234344",
+            "address":"USA",
+            "id": 11,
+            "status":"Active"
+        },{
+            "name":"Marc",
+            "email":"marc@gmail.com",
+            "phone":"06243234344",
+            "address":"ARGENTINA",
+            "id": 12,
+            "status":"Inactive"
+        },{
+            "name":"Brok",
+            "email":"brok@gmail.com",
+            "phone":"09243234344",
+            "address":"SWEDEN",
+            "id": 13,
+            "status":"Active"
+        },{
+            "name":"Stella",
+            "email":"stella@gmail.com",
+            "phone":"06243234344",
+            "address":"SPAIN",
+            "id": 14,
+            "status":"Active"
+        },{
+            "name":"Suzuki",
+            "email":"suzuki@gmail.com",
+            "phone":"05243634344",
+            "address":"JAPAN",
+            "id": 15,
+            "status":"Active"
+        },{
+            "name":"Rukundo",
+            "email":"rukundo@gmail.com",
+            "phone":"07943234344",
+            "address":"RWANDA",
+            "id": 16,
+            "status":"Inactive"
+        },{
+            "name":"Michelange",
+            "email":"michelange@gmail.com",
+            "phone":"08843234344",
+            "address":"RWANDA",
+            "id": 17,
+            "status":"Active"
+        }
+    ]
+}
